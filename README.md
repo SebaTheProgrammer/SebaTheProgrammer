@@ -12,3 +12,12 @@
 
 ## <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics
 
+<br/>
+<p align="left">
+  <a href="http://127.0.0.1/">
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=SebaTheProgrammer&theme=vue-dark&show_icons=true&hide_border=true&count_private=true">	  
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=D7EAD&theme=gruvbox&hide_border=true">		  
+  </a>
+</p>
+<br>
+
