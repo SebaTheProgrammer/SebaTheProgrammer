@@ -16,7 +16,7 @@
 <p align="left">
   <a href="http://127.0.0.1/">
     <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=SebaTheProgrammer&theme=vue-dark&show_icons=true&hide_border=true&count_private=true">	  
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=D7EAD&theme=gruvbox&hide_border=true">		  
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=SebaTheProgrammer&theme=vue-dark&hide_border=true">		  
   </a>
 </p>
 <br>
