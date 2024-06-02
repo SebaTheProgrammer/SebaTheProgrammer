@@ -1,5 +1,6 @@
-## Hi there 👋
-
+<h1 align="center">
+  <img width="40%" src="https://media0.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif?cid=ecf05e47qjg85psbj19i4as0jyjettm8o58u5jnt90dh6rgr&rid=giphy.gif">
+</h1>
 <!--
 **SebaTheProgrammer/SebaTheProgrammer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
