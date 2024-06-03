@@ -15,7 +15,7 @@
 <br/>
 <p align="left">
   <a href="http://127.0.0.1/">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=sebatheprogrammer&theme=gruvbox&show_icons=true&hide_border=true&count_private=true">	  
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=sebatheprogrammer&theme=gruvbox&show_icons=true&hide_border=true&count_private=true">	 
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=sebatheprogrammer&theme=gruvbox&hide_border=true">
   </a>
 </p>
