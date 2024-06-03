@@ -1,4 +1,4 @@
-![download](https://github.com/SebaTheProgrammer/SebaTheProgrammer/assets/119673781/3a61a4c0-f335-45bd-955c-82030c4b3b40)<h1 align="center">
+
   <img width="20%" src="https://media0.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif?cid=ecf05e47qjg85psbj19i4as0jyjettm8o58u5jnt90dh6rgr&rid=giphy.gif">
 </h1>
 <p align="center">
@@ -17,7 +17,7 @@
 <p align="left">
   <a href="http://127.0.0.1/">
     <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=sebatheprogrammer&theme=gruvbox&show_icons=true&hide_border=true&count_private=true">	 
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=sebatheprogrammer&theme=gruvbox&hide_border=true">
+    <img width="49.5%" src="https://github.com/SebaTheProgrammer/SebaTheProgrammer/assets/119673781/3a61a4c0-f335-45bd-955c-82030c4b3b40)<h1 align="center">
   </a>
 </p>
 <br>
