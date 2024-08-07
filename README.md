@@ -14,10 +14,5 @@
   
 <br/>
 
-<p align="left">
-  <a href="http://127.0.0.1/">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=sebatheprogrammer&theme=gruvbox&show_icons=true&hide_border=true&count_private=true">	 
-    <img width="49.5%" src="https://github.com/SebaTheProgrammer/SebaTheProgrammer/assets/119673781/3a61a4c0-f335-45bd-955c-82030c4b3b40)<h1 align="center">
-  </a>
-</p>
+
 <br>
